@@ -1,38 +1,39 @@
 body {
-    font-family: 'Arial', sans-serif;
-    text-align: center;
-    padding: 50px;
-    background-color: #ffe6f2; /* Light pink background */
+  font-family: "Arial", sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #ffe6f2; /* Light pink background */
 }
 
 .container {
-    background: #ffccf2; /* Soft pink container */
-    padding: 20px;
-    border-radius: 15px;
-    box-shadow: 0 0 10px rgba(255, 105, 180, 0.3);
-    display: inline-block;
-    border: 2px solid #ff99cc;
+  background: #ffccf2; /* Soft pink container */
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(255, 105, 180, 0.3);
+  display: inline-block;
+  border: 2px solid #ff99cc;
 }
 
 h2 {
-    color: #ff0080; /* Deep pink text */
-    font-size: 28px;
+  color: #ff0080; /* Deep pink text */
+  font-size: 28px;
 }
 
 .button {
-    display: block;
-    margin: 10px auto;
-    padding: 12px 24px;
-    background: #ff66b2; /* Bright pink */
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-    border-radius: 8px;
-    border: 2px solid #ff0080;
-    transition: 0.3s ease-in-out;
+  display: block;
+  margin: 10px auto;
+  padding: 12px 24px;
+  background: #ff66b2; /* Bright pink */
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  border-radius: 8px;
+  border: 2px solid #ff0080;
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
 }
 
 .button:hover {
-    background: #ff0080;
-    border-color: #ff66b2;
+  background: #ff0080;
+  border-color: #ff66b2;
 }
